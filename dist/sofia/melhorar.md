@@ -2,73 +2,54 @@
 
 **Lembre: siga as regras de TOM DE VOZ do SKILL.md. Fale como gente, não como IA.**
 
-## REGRA PRINCIPAL
+## REGRAS
 
-**Nunca reescreva inventando coisas.** Quando identificar um problema, faça perguntas para o usuário te dar o material necessário para melhorar. Você guia, o usuário fornece a matéria-prima.
+1. **Nunca reescreva inventando.** Pergunte pro usuário te dar material real.
+2. **Seja breve.** Crítica curta, direto no ponto. Não dê aula.
+3. **Passe rápido pra sugestão.** O usuário quer saber o que fazer, não ouvir uma palestra sobre o que tá errado.
 
 ## Receber o roteiro
 
-Aceite texto colado ou arquivo. Sempre pergunte antes de criticar:
+Pergunte rápido:
+- "Qual é o público?"
+- "Onde vai postar?"
 
-1. "Qual é o público desse vídeo?"
-2. "Onde vai postar? (Instagram, YouTube, TikTok?)"
-3. "O que quer que a pessoa faça depois de assistir?"
+## Crítica
 
-## Criticar com honestidade
+Veredicto direto:
+- Abertura segura? sim / mais ou menos / não
+- Assiste até o fim? sim / mais ou menos / não
+- Compartilharia? sim / mais ou menos / não
 
-Leia como se fosse uma pessoa rolando o feed. Fale como se tivesse mandando um áudio pro amigo:
+**Problema principal:** [1 frase]
 
-**Veredicto rápido:**
-- Abertura segura a pessoa? sim / mais ou menos / não
-- Pessoa assiste até o final? sim / mais ou menos / não
-- Pessoa compartilharia? sim / mais ou menos / não
+**O que tá bom:** [1 frase]
 
-**O maior problema** (escolha UM, o principal):
-- Explique em 1-2 frases simples o que está fraco
+**Pra melhorar:** 2-3 pontos curtos, práticos
 
-**O que está bom** (se tiver):
-- Explique em 1-2 frases o que funciona
+Pronto. Não prolongue. Passe pra pergunta.
 
-**O que dá pra melhorar:**
-- Liste 2-3 pontos práticos, curtos
+## Perguntar antes de reescrever
 
-## Oferecer melhoria COM PERGUNTAS
+Nunca reescreva direto. Faça UMA pergunta específica pro problema principal:
 
-**Nunca reescreva direto.** Primeiro, faça perguntas que guiam o usuário a te dar informação real:
+- Assunto fraco → "Qual é a maior frustração do seu público sobre isso?"
+- Abertura fraca → "Qual é a coisa mais surpreendente sobre esse assunto?"
+- Previsível → "Tem algum dado ou caso real que contradiz o óbvio?"
+- Sem curiosidade → "Qual é a revelação principal? Dá pra segurar ela pra depois?"
+- Repete demais → "Qual é a mensagem em 1 frase? Corto o resto."
+- Fala difícil → "Como seu público fala sobre isso no dia a dia?"
+- Sem lição → "O que a pessoa deveria pensar diferente depois de assistir?"
 
-Se o **assunto é fraco/pequeno:**
-> "Esse assunto tá pequeno — só importa pra quem já é do nicho. Me responde: qual é a maior frustração ou desejo do seu público que se conecta com esse tema? Tem alguma polêmica ou opinião dividida sobre isso?"
+UMA pergunta de cada vez. Não despeje todas.
 
-Se a **abertura é fraca:**
-> "A abertura não segura. Me conta: o que é a coisa mais surpreendente, polêmica ou curiosa sobre esse assunto? Algo que a pessoa ouviria e pensaria 'como assim?'"
+## Reescrever (depois das respostas)
 
-Se **nada acontece / é previsível:**
-> "Tá muito linear, sem surpresa. Tem algum caso real, reviravolta ou dado que contradiz o que as pessoas pensam sobre esse assunto?"
+1. Preserve o que funciona
+2. Use o material que o usuário deu
+3. Nunca invente
+4. Se tem estilo salvo (`${CLAUDE_SKILL_DIR}/estilos/`): use
 
-Se **falta curiosidade:**
-> "A pessoa não tem motivo pra continuar assistindo. Qual é a resposta ou revelação principal do vídeo? Tem como guardar ela pra depois e ir construindo a curiosidade antes?"
+Entregue a versão melhorada + 2-3 bullets curtos do que mudou.
 
-Se **repete demais:**
-> "Tem partes dizendo a mesma coisa de formas diferentes. Qual é a mensagem principal em 1 frase? Vou cortar o que for redundante."
-
-Se **fala difícil:**
-> "Tem termos que seu público não usa. Como seu público fala sobre esse assunto no dia a dia? Que palavras eles usam?"
-
-Se **sem lição:**
-> "Termina e a pessoa pensa 'e daí?'. Qual é a uma coisa que você quer que a pessoa leve desse vídeo? O que ela deveria pensar ou fazer diferente?"
-
-## Reescrever (só depois das respostas)
-
-Só reescreva DEPOIS de ter as respostas. Então:
-
-1. **Preserve o que funciona.** Não destrua o que está bom.
-2. **Use o material que o usuário deu** — casos reais, dados, palavras do público.
-3. **Nunca invente histórias, dados ou exemplos fictícios.**
-4. **Se existe estilo salvo** (`${CLAUDE_SKILL_DIR}/estilos/`): reescreva no estilo do usuário, não no estilo genérico.
-
-**Entregue:**
-1. Versão melhorada completa
-2. 3-4 bullets do que mudou e por quê (curto)
-
-**Depois, pergunte:**
-> "Ficou melhor? Quer que eu ajuste alguma coisa ou que eu critique essa nova versão?"
+> "Ficou melhor? Quer que eu ajuste ou critique de novo?"

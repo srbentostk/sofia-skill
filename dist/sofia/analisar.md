@@ -24,92 +24,66 @@ Se não conseguir extrair, peça: "Não consegui pegar o texto do vídeo. Pode c
 
 ## Antes de analisar, pergunte
 
-Depois de extrair o conteúdo, faça 1-2 perguntas para entender o contexto:
-
 - "Esse vídeo é do seu nicho? Qual é o seu público?"
-- "O que te chamou atenção nesse vídeo? Quer entender alguma parte específica?"
+- "Quer entender alguma parte específica?"
 
-Isso ajuda a dar uma análise mais útil pro contexto da pessoa.
+## REGRA DE BREVIDADE
 
-## Como explicar a análise
+**A análise tem que ser CURTA.** Como se você tivesse explicando rápido pro amigo, não dando aula.
 
-Analise bloco a bloco, frase a frase. Deixe visualmente claro o que é texto do roteiro e o que é sua análise.
+- Máximo 1 frase por bloco analisado. UMA.
+- Se precisa de 2 frases, a primeira tá longa demais.
+- Vá direto pro ponto: o que essa frase faz com quem assiste.
+- Não explique o porquê do porquê. Só o porquê.
+- Passe rápido. O valor tá na visão geral, não no detalhe de cada frase.
 
-**Formato obrigatório:**
+## Formato da análise
 
-Use citação (>) para o texto do roteiro e texto normal para a análise logo abaixo. Separe cada bloco com uma linha em branco.
+> "Trecho do roteiro"
 
-```
-> "Frase ou trecho do roteiro aqui"
-
-Explicação curta do que essa parte faz com quem assiste. 1-2 frases no máximo.
-
----
-
-> "Próxima frase do roteiro"
-
-Explicação dessa parte. Sempre em linguagem simples.
+O que faz: [1 frase curta].
 
 ---
-```
 
-**Exemplo real de como deve ficar:**
+**Exemplo de como deve ficar:**
 
 > "Você sabia que 90% das pessoas fazem isso errado?"
 
-Essa abertura joga um número que assusta e faz a pessoa pensar "será que eu faço errado?" — prende porque ninguém quer estar no grupo dos 90%.
+Joga um número que assusta. A pessoa pensa "será que eu faço errado?" e fica.
 
 ---
 
 > "E o pior: ninguém te conta a verdade sobre isso"
 
-Aumenta a curiosidade. A pessoa agora quer saber qual é essa verdade que estão escondendo dela.
+Aumenta a curiosidade. Agora ela quer saber qual é essa verdade.
 
 ---
 
-**Regras do formato:**
-- SEMPRE use `> "texto"` para trechos do roteiro (com aspas)
-- SEMPRE use `---` para separar cada bloco
-- Análise vai logo abaixo, como se tivesse explicando pro amigo no bar
-- Máximo 2 frases por análise — fala curta, fala direta
-- Não use palavras de IA (veja lista de proibidas no SKILL.md)
+> "Mas a real é que isso aqui muda tudo"
 
-**Tom da análise — exemplos de como falar:**
-- ✅ "Isso aqui prende porque a pessoa fica pensando 'será que é verdade?'"
-- ❌ "Esse trecho é fascinante pois gera um debate mental no espectador"
-- ✅ "Essa parte tá fraca — entrega a resposta rápido demais, aí a pessoa não tem motivo pra continuar"
-- ❌ "Vale destacar que a revelação prematura pode comprometer a retenção"
-- ✅ "Aqui ele usa o Neymar porque todo mundo sabe quem é — entra na cabeça sem esforço"
-- ❌ "A utilização de uma figura pública amplamente reconhecida reduz o custo cognitivo"
-- ✅ "O 'mas' aqui vira tudo — você tava pensando uma coisa, aí ele puxa o tapete"
-- ❌ "O conectivo adversativo cria um contraste que subverte a expectativa"
+O "mas" puxa o tapete. Tava num lugar, agora tá em outro.
 
-**Ao analisar, aponte também os padrões de escrita** (consulte `references/como-escrever.md`):
-- Onde usou especificidade (nome próprio, número exato) pra criar imagem mental
-- Onde usou "mas" pra virar o sentido
-- Onde a frase curta carregou o peso depois de uma construção longa
-- Onde forçou o público a lembrar de algo da própria vida
-- Onde a escalada subiu de nível
-- Onde conectou a história com a vida de quem assiste
+---
 
-## A abertura
+**Regras:**
+- `> "texto"` pro roteiro, texto normal pra análise
+- `---` entre blocos
+- 1 frase por análise. Curta. Direta.
+- Pode agrupar 2-3 frases do roteiro num bloco só se fazem a mesma coisa
+- Não liste todos os truques que identificou. Aponte só o principal de cada bloco.
 
-Destaque a abertura separada:
-- O que faz a pessoa parar?
-- Que pergunta fica na cabeça?
-- Nota de 1 a 10
+## Abertura
 
-## Resumão (máximo 5 linhas)
+Destaque rápido:
+- O que faz parar? [1 frase]
+- Nota: X/10
 
-1. A ideia central do vídeo em 1 frase
-2. O que carrega o vídeo (o que faz funcionar)
-3. O que poderia ser melhor
+## Resumão (3 linhas)
 
-## Depois da análise, pergunte
+1. A ideia central em 1 frase
+2. O que carrega o vídeo
+3. O que daria pra melhorar
 
-Sempre termine com perguntas que ajudem a pessoa a agir:
+## Depois, pergunte
 
-> "O que quer fazer com essa análise?"
-> - "Quer escrever um roteiro parecido? Me conta: qual seria o assunto pro seu público?"
-> - "Quer melhorar um roteiro que você já tem? Cola aqui que eu olho."
-> - "Quer que eu explique alguma parte com mais detalhe?"
+> "Quer escrever um roteiro com base nisso, melhorar um que você já tem, ou entender alguma parte melhor?"
