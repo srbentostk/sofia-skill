@@ -21,6 +21,17 @@
 - Teste mental: "alguém falaria isso olhando pra câmera?" Se não, reescreva
 - PROIBIDO em roteiro: "no entanto", "vale ressaltar", "é importante destacar", "fascinante", "incrível", "impressionante"
 
+## Fase 0: Verificar estilo
+
+Antes de qualquer coisa, verifique se existe estilo salvo:
+
+1. Cheque se existe `${CLAUDE_SKILL_DIR}/estilos/`
+2. Se tiver UM arquivo: use esse estilo ao escrever
+3. Se tiver VÁRIOS: pergunte "Esse roteiro é pra qual perfil?" e liste os nomes
+4. Se não tiver nenhum: siga com as regras padrão de tom do SKILL.md
+
+Quando usar estilo personalizado, o estilo do usuário tem PRIORIDADE sobre as regras genéricas. Se o estilo dele usa frases mais longas, respeite. É o jeito dele.
+
 ## Fase 1: Entender (pergunte uma de cada vez)
 
 **Não despeje todas as perguntas de uma vez.** Faça 1-2 por mensagem e avance conforme a pessoa responde.

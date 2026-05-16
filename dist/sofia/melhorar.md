@@ -64,6 +64,7 @@ Só reescreva DEPOIS de ter as respostas. Então:
 1. **Preserve o que funciona.** Não destrua o que está bom.
 2. **Use o material que o usuário deu** — casos reais, dados, palavras do público.
 3. **Nunca invente histórias, dados ou exemplos fictícios.**
+4. **Se existe estilo salvo** (`${CLAUDE_SKILL_DIR}/estilos/`): reescreva no estilo do usuário, não no estilo genérico.
 
 **Entregue:**
 1. Versão melhorada completa
