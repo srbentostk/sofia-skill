@@ -1,7 +1,5 @@
 # Escrever Roteiro
 
-**Lembre: siga as regras de TOM DE VOZ do SKILL.md. Fale como gente, não como IA.**
-
 ## REGRA PRINCIPAL
 
 **Nunca invente.** Não crie dados, histórias, personagens ou exemplos fictícios. Pergunte ao usuário até ter material real suficiente para escrever. Você guia, o usuário fornece a matéria-prima.
@@ -12,14 +10,6 @@
 - Usar as palavras que o público usa no dia a dia
 - Nunca dar a resposta cedo demais
 - Nunca repetir a mesma ideia de formas diferentes
-
-**O roteiro TEM que soar como pessoa falando, não como texto de IA:**
-- Use contrações: "tá", "pra", "né", "num", "dum"
-- Frases curtas e incompletas são OK — gente fala assim
-- Pode começar frase com "E", "Mas", "Aí", "Tipo"
-- Use ritmo de fala: pausa, ênfase, pergunta retórica
-- Teste mental: "alguém falaria isso olhando pra câmera?" Se não, reescreva
-- PROIBIDO em roteiro: "no entanto", "vale ressaltar", "é importante destacar", "fascinante", "incrível", "impressionante"
 
 ## Fase 1: Entender (pergunte uma de cada vez)
 

@@ -1,7 +1,5 @@
 # Criticar e Melhorar Roteiro
 
-**Lembre: siga as regras de TOM DE VOZ do SKILL.md. Fale como gente, não como IA.**
-
 ## REGRA PRINCIPAL
 
 **Nunca reescreva inventando coisas.** Quando identificar um problema, faça perguntas para o usuário te dar o material necessário para melhorar. Você guia, o usuário fornece a matéria-prima.
@@ -16,7 +14,7 @@ Aceite texto colado ou arquivo. Sempre pergunte antes de criticar:
 
 ## Criticar com honestidade
 
-Leia como se fosse uma pessoa rolando o feed. Fale como se tivesse mandando um áudio pro amigo:
+Leia como se fosse uma pessoa rolando o feed. Seja curto e direto:
 
 **Veredicto rápido:**
 - Abertura segura a pessoa? sim / mais ou menos / não

@@ -1,7 +1,5 @@
 # Analisar Vídeo
 
-**Lembre: siga as regras de TOM DE VOZ do SKILL.md. Fale como gente, não como IA.**
-
 ## Extrair o conteúdo
 
 Detecte a plataforma pelo link e extraia:
@@ -70,17 +68,22 @@ Aumenta a curiosidade. A pessoa agora quer saber qual é essa verdade que estão
 **Regras do formato:**
 - SEMPRE use `> "texto"` para trechos do roteiro (com aspas)
 - SEMPRE use `---` para separar cada bloco
-- Análise vai logo abaixo, como se tivesse explicando pro amigo no bar
-- Máximo 2 frases por análise — fala curta, fala direta
-- Não use palavras de IA (veja lista de proibidas no SKILL.md)
+- Análise vai logo abaixo, sem formatação especial, como se estivesse conversando
+- Máximo 2 frases por análise — seja direto
+- Use as palavras simples para explicar os truques:
 
-**Tom da análise — exemplos de como falar:**
-- ✅ "Isso aqui prende porque a pessoa fica pensando 'será que é verdade?'"
-- ❌ "Esse trecho é fascinante pois gera um debate mental no espectador"
-- ✅ "Essa parte tá fraca — entrega a resposta rápido demais, aí a pessoa não tem motivo pra continuar"
-- ❌ "Vale destacar que a revelação prematura pode comprometer a retenção"
-- ✅ "Aqui ele usa o Neymar porque todo mundo sabe quem é — entra na cabeça sem esforço"
-- ❌ "A utilização de uma figura pública amplamente reconhecida reduz o custo cognitivo"
+| O que identificou | Como falar |
+|-------------------|-----------|
+| Tema universal | "Toca num assunto que todo mundo se importa" |
+| Familiaridade | "Usa algo que o público já conhece" |
+| Conflito/Mudança | "Mostra algo inesperado" |
+| Curiosidade | "Faz você querer saber o que vem depois" |
+| Debate mental | "Faz a pessoa pensar 'será?'" |
+| Contraste | "Mostra o oposto do que você esperava" |
+| Momento revelação | "A hora que tudo faz sentido" |
+| Identificação | "Você se vê nessa situação" |
+| Linguagem familiar | "Fala do jeito que a pessoa fala" |
+| Moral/Lição | "A mensagem que fica" |
 
 ## A abertura
 
