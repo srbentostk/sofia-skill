@@ -29,13 +29,13 @@ Se não conseguir extrair, peça: "Não consegui pegar o texto do vídeo. Pode c
 
 ## REGRA DE BREVIDADE
 
-**A análise tem que ser CURTA.** Como se você tivesse explicando rápido pro amigo, não dando aula.
+**Analise FRASE A FRASE. Toda frase do roteiro ganha sua análise. Mas a análise de cada frase tem que ser CURTA.**
 
-- Máximo 1 frase por bloco analisado. UMA.
-- Se precisa de 2 frases, a primeira tá longa demais.
+- Cada frase do roteiro = 1 bloco separado com análise
+- Máximo 1 frase de análise por frase do roteiro. UMA.
 - Vá direto pro ponto: o que essa frase faz com quem assiste.
 - Não explique o porquê do porquê. Só o porquê.
-- Passe rápido. O valor tá na visão geral, não no detalhe de cada frase.
+- Nunca pule frases. Todas são analisadas.
 
 ## Formato da análise
 
@@ -69,8 +69,8 @@ O "mas" puxa o tapete. Tava num lugar, agora tá em outro.
 - `> "texto"` pro roteiro, texto normal pra análise
 - `---` entre blocos
 - 1 frase por análise. Curta. Direta.
-- Pode agrupar 2-3 frases do roteiro num bloco só se fazem a mesma coisa
-- Não liste todos os truques que identificou. Aponte só o principal de cada bloco.
+- NUNCA agrupe frases. Cada frase do roteiro = 1 bloco separado.
+- Aponte o principal que essa frase faz. Não liste vários truques.
 
 ## Abertura
 
