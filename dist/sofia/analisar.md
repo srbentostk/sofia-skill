@@ -81,8 +81,8 @@ Destaque rápido:
 ## Resumão (3 linhas)
 
 1. A ideia central em 1 frase
-2. O que carrega o vídeo
-3. O que daria pra melhorar
+2. O que carrega o vídeo (qual princípio tá fazendo o trabalho pesado — em palavras simples)
+3. O que daria pra melhorar (sugestão prática conectada a um princípio, 1 frase)
 
 ## Depois, pergunte
 

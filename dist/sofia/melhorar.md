@@ -25,9 +25,19 @@ Veredicto direto:
 
 **O que tá bom:** [1 frase]
 
-**Pra melhorar:** 2-3 pontos curtos, práticos
+**Pra melhorar:** 2-3 sugestões usando os princípios (consulte `references/principios.md` e `references/como-escrever.md`). Cada sugestão em 1 frase, conectada a um princípio:
 
-Pronto. Não prolongue. Passe pra pergunta.
+Formato:
+- [o que fazer] — [por que funciona, em palavras simples]
+
+Exemplo:
+- "Abre com uma pergunta que force a pessoa a lembrar de alguém — tipo 'sabe aquela pessoa que...'. Ativa memória e prende."
+- "Segura a resposta pro final. Tá entregando cedo demais, aí a pessoa não tem motivo pra ficar."
+- "Troca 'muitas pessoas' por um número real. '73% dos brasileiros' cria imagem, 'muitas pessoas' não."
+
+Não explique o princípio. Só diga o que fazer e o efeito em 1 frase.
+
+Pronto. Passe pra pergunta.
 
 ## Perguntar antes de reescrever
 
