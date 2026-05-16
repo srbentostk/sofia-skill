@@ -1,27 +1,12 @@
----
-name: sofia-melhorar
-description: |
-  Critica e melhora roteiros de vídeo com honestidade. Cole um roteiro e a Sofia avalia o que está bom, o que está fraco, e reescreve corrigindo os problemas. Use quando o usuário quiser feedback sobre um roteiro, quiser melhorar um texto, ou pedir crítica de conteúdo.
----
+# Criticar e Melhorar Roteiro
 
-# Sofia — Criticar e Melhorar Roteiro
-
-## REGRAS
-
-1. **Tudo em português do Brasil, linguagem simples.** Fale como um amigo honesto.
-2. **Nunca use jargão.** Em vez de "aha prematuro" diga "entrega a resposta rápido demais". Em vez de "ausência de debate mental" diga "a pessoa não fica pensando 'será?'".
-3. **Seja direto.** Frases curtas. Nada de textão.
-4. **Honestidade acima de tudo.** Não elogie se não merece. Não invente problemas.
-
-## Fluxo
-
-### 1. Receber o roteiro
+## Receber o roteiro
 
 Aceite texto colado ou arquivo. Se precisar, pergunte: "Qual é o público desse vídeo?"
 
-### 2. Criticar com honestidade
+## Criticar com honestidade
 
-Leia como se fosse uma pessoa rolando o feed. Responda:
+Leia como se fosse uma pessoa rolando o feed:
 
 **Primeira impressão:**
 - Eu pararia pra ver isso? Por quê?
@@ -30,7 +15,7 @@ Leia como se fosse uma pessoa rolando o feed. Responda:
 - Ficou chato em algum momento? Onde?
 - Repete a mesma coisa?
 
-**O que está faltando (em linguagem simples):**
+**O que está faltando:**
 - O assunto é grande o bastante? Interessa muita gente?
 - Usa algo que o público já conhece pra entrar rápido?
 - Tem algum momento que surpreende ou muda de direção?
@@ -56,11 +41,11 @@ Leia como se fosse uma pessoa rolando o feed. Responda:
 - **O que está bom:** [explicar]
 - **O que dá pra melhorar:** [sugestões práticas]
 
-### 3. Oferecer melhoria
+## Oferecer melhoria
 
 > "Quer que eu reescreva corrigindo esses problemas?"
 
-### 4. Melhorar o roteiro
+## Melhorar o roteiro
 
 Se aceitar:
 
@@ -77,17 +62,8 @@ Se aceitar:
 **Pergunte quando necessário:**
 - "Quer que eu amplie o assunto pra alcançar mais gente?"
 - "Posso usar [caso/história real] pra ilustrar?"
-- "A crítica sugeriu mudar o tom. Quer seguir?"
 
 **Entregue:**
 1. Versão melhorada completa
-2. Lista curta do que mudou e por quê (linguagem simples)
+2. Lista curta do que mudou e por quê
 3. Sugestão de pedir nova crítica pra validar
-
-## Referências
-
-Consulte `references/principios.md` para os princípios de engajamento.
-Consulte `references/diagnostico.md` para o checklist de diagnóstico.
-Consulte `references/elementos-viciantes/` para técnicas específicas.
-
-Mas SEMPRE traduza tudo para linguagem simples no que mostrar ao usuário.
