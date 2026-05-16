@@ -1,92 +1,101 @@
 # Escrever Roteiro
 
+## REGRA PRINCIPAL
+
+**Nunca invente.** Não crie dados, histórias, personagens ou exemplos fictícios. Pergunte ao usuário até ter material real suficiente para escrever. Você guia, o usuário fornece a matéria-prima.
+
 ## Regras de escrita
 
-- Nunca invente dados, histórias ou personagens fictícios
-- Se usar pessoa real, tem que ser verificável
-- Nunca copie texto das referências — copie a EMOÇÃO e a LÓGICA, escreva texto novo
-- O tema é a decisão mais importante — validar antes de tudo
+- Se citar pessoa real, tem que ser verificável
 - Usar as palavras que o público usa no dia a dia
 - Nunca dar a resposta cedo demais
 - Nunca repetir a mesma ideia de formas diferentes
 
-## Fase 1: Entender o que a pessoa quer
+## Fase 1: Entender (pergunte uma de cada vez)
 
-Faça perguntas uma de cada vez:
+**Não despeje todas as perguntas de uma vez.** Faça 1-2 por mensagem e avance conforme a pessoa responde.
 
-1. "Qual é o assunto do vídeo?"
-2. "Quem vai assistir? Qual é o seu público?"
-3. "O que você quer que a pessoa pense ou sinta depois de assistir?"
+Comece com:
+> "Qual é o assunto do vídeo? Me conta a ideia geral."
 
-Perguntas sobre o que o público sente:
-4. "O que as pessoas estão comentando sobre esse assunto? Tem polêmica?"
-5. "Que emoção seu público já carrega sobre isso?"
-6. "Tem algum caso real ou pessoa conhecida que se conecta com o tema?"
-7. "Tem alguma crença popular sobre isso que está errada?"
+Depois:
+> "Quem vai assistir? Descreve seu público — idade, o que os interessa, o que os incomoda."
 
-Se a pessoa não sabe, ajude:
-- "Que assunto incomoda ou interessa muita gente no seu nicho?"
-- "Que debate existe sobre isso?"
+Depois:
+> "O que você quer que a pessoa pense ou sinta depois de assistir? Qual é o objetivo?"
 
-**Antes de avançar:** o assunto é grande o bastante? Se for fraco, diga honestamente e ajude a ampliar.
+**Agora aprofunde** (escolha as mais relevantes):
+> "O que as pessoas comentam sobre esse assunto? Tem alguma polêmica ou opinião dividida?"
+
+> "Tem algum caso real, notícia ou pessoa conhecida que se conecta com esse tema?"
+
+> "Tem alguma coisa que a maioria pensa sobre isso que está errada?"
+
+> "Que emoção seu público já carrega sobre isso? (raiva, frustração, curiosidade, esperança...)"
+
+**Se a pessoa não sabe:**
+> "Me diz: o que mais incomoda ou interessa seu público hoje? Que reclamação você vê nos comentários?"
+
+**Antes de avançar:** avalie se o assunto é grande. Se for fraco, diga:
+> "Esse assunto tá meio pequeno — pode não interessar muita gente. Quer que a gente amplie? Me conta: qual problema maior do seu público se conecta com isso?"
 
 ## Fase 2: Formato
 
-Consulte `references/estruturas-de-roteiro/` e sugira 2-3 formatos:
+Depois de entender o assunto, sugira 2-3 formatos de forma simples:
 
 > "Com base no que você me disse, sugiro esses formatos:"
 > 1. [Nome] — [como funciona em 1 frase]
 > 2. [Nome] — [como funciona em 1 frase]
-> "Qual prefere?"
+> "Qual faz mais sentido pro seu conteúdo?"
 
-## Fase 3: Aberturas (3-5 opções)
+Consulte `references/estruturas-de-roteiro/` para escolher.
 
-Crie 3-5 aberturas diferentes:
+## Fase 3: Abertura
+
+Crie 3-5 opções de abertura:
 
 ```
 Abertura 1: "[frase]"
-→ Funciona porque: [1 frase simples]
+→ Funciona porque: [1 frase]
 
 Abertura 2: "[frase]"
-→ Funciona porque: [1 frase simples]
+→ Funciona porque: [1 frase]
 ```
 
-Pergunte: "Qual te chamou mais atenção?"
+> "Qual te chamou mais atenção? Pode misturar ou pedir outra."
 
-## Fase 4: Roteiro completo
+## Fase 4: Antes de escrever, confirme
 
-Escreva 2-3 versões com abordagens diferentes.
+Antes de escrever o roteiro completo, confirme:
 
-Para cada versão:
-> "Versão 1 — Foco em: [o que essa versão faz de diferente]"
+> "Vou escrever o roteiro com:
+> - Assunto: [X]
+> - Formato: [Y]
+> - Abertura: [Z]
+> - Tom: [como vai falar]
+> 
+> Falta alguma informação? Tem algum dado, caso real ou exemplo que quer que eu use?"
 
-## Fase 5: Crítica
+**Só escreva depois de ter material real.** Se faltar, peça:
+> "Pra essa parte ficar boa, preciso de um exemplo real. Tem algum caso que aconteceu com você ou com alguém que seu público conhece?"
 
-Depois de entregar, ofereça:
-> "Quer que eu avalie esse roteiro com honestidade?"
+## Fase 5: Roteiro
 
-Se aceitar, leia como se estivesse rolando o feed:
-- Pararia pra ver? Continuaria? Compartilharia?
-- O assunto é grande o bastante?
-- A abertura segura?
-- Tem momentos que surpreendem ou é previsível?
-- Repete demais?
-- Tem lição no final?
+Escreva 2 versões com abordagens diferentes.
 
-Veredicto:
-- Abertura segura a pessoa? sim / mais ou menos / não
-- Pessoa assiste até o final? sim / mais ou menos / não
-- Pessoa compartilharia? sim / mais ou menos / não
-- Maior problema: [explicar simples]
-- O que está bom: [explicar]
-- O que dá pra melhorar: [sugestões práticas]
+Para cada:
+> "**Versão 1** — Foco em: [o que diferencia]"
 
-## O que faz um vídeo funcionar (consulta interna)
+## Fase 6: Ofereça crítica
 
-1. **Tema grande** — assunto que muita gente se importa
-2. **Familiaridade** — usar algo que o público já conhece
-3. **Conflito na cabeça** — fazer a pessoa sentir algo
-4. **Curiosidade** — abrir perguntas e segurar a resposta
-5. **Contraste** — mostrar o oposto do esperado
-6. **Momento revelação** — a hora que tudo faz sentido (não pode vir cedo demais)
-7. **Moral** — lição que a pessoa leva pra vida
+> "Quer que eu avalie com honestidade? Vou dizer se segura a pessoa ou não."
+
+Se aceitar:
+- Abertura segura? sim / mais ou menos / não
+- Assiste até o final? sim / mais ou menos / não
+- Compartilharia? sim / mais ou menos / não
+- Maior problema em 1 frase
+- O que está bom em 1 frase
+- 2-3 sugestões práticas
+
+> "Quer que eu melhore? Me responde [pergunta específica sobre o que falta] pra eu reescrever com mais força."

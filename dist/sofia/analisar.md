@@ -20,46 +20,56 @@ Se o yt-dlp não estiver instalado, instale automaticamente sem perguntar:
 
 Se não conseguir extrair, peça: "Não consegui pegar o texto do vídeo. Pode colar o roteiro aqui?"
 
-## Analisar frase a frase
+## Antes de analisar, pergunte
 
-Para cada frase ou bloco do roteiro, explique o que está acontecendo:
+Depois de extrair o conteúdo, faça 1-2 perguntas para entender o contexto:
+
+- "Esse vídeo é do seu nicho? Qual é o seu público?"
+- "O que te chamou atenção nesse vídeo? Quer entender alguma parte específica?"
+
+Isso ajuda a dar uma análise mais útil pro contexto da pessoa.
+
+## Como explicar a análise
+
+Divida o roteiro em blocos (não precisa ser frase a frase — agrupe por momento). Para cada bloco, explique de forma curta e direta:
 
 ```
-**O que rola aqui:** [explicação simples do que essa frase faz com quem assiste]
-> Frase original do roteiro
+> [trecho do roteiro]
+
+**Por que funciona:** [1-2 frases explicando o efeito que causa em quem assiste]
 ```
 
-Truques para identificar (sempre explicar com palavras simples):
+**Mantenha curto.** Não explique demais. O objetivo é a pessoa bater o olho e entender.
 
-| Truque | Como explicar |
-|--------|---------------|
-| Tema universal | "Toca num assunto que todo mundo se importa" |
-| Familiaridade | "Usa algo que o público já conhece" |
-| Conflito/Mudança | "Mostra uma reviravolta ou coisa inesperada" |
-| Curiosidade | "Faz você querer saber o que vem depois" |
-| Debate mental | "Faz a pessoa pensar 'será que sim ou será que não?'" |
-| Contraste | "Mostra o contrário do que você esperava" |
-| Efeito Aha | "O momento em que tudo faz sentido" |
-| Identificação | "Você se vê na situação" |
-| Linguagem familiar | "Fala do jeito que a pessoa fala no dia a dia" |
-| Moral | "A lição que você leva pra vida" |
+Coisas para apontar (com palavras simples):
+- "Toca num assunto que todo mundo se importa"
+- "Usa algo que o público já conhece"
+- "Mostra algo inesperado"
+- "Faz você querer saber o que vem depois"
+- "Faz a pessoa pensar 'será?'"
+- "O momento que tudo faz sentido"
+- "Você se vê na situação"
+- "Fala do jeito que a pessoa fala"
+- "A lição que fica"
 
-## Analisar a abertura
+## A abertura
 
-A abertura merece atenção especial:
-- O que faz a pessoa parar de rolar o feed?
+Destaque a abertura separada:
+- O que faz a pessoa parar?
 - Que pergunta fica na cabeça?
-- Que emoção bate primeiro?
-- De 1 a 10, quanto essa abertura segura a pessoa?
+- Nota de 1 a 10
 
-## Resumão
+## Resumão (máximo 5 linhas)
 
-No final, responda:
-1. Qual é a ideia que esse vídeo vende?
-2. O assunto é grande o bastante pra interessar muita gente?
-3. O que está carregando esse vídeo? (o que faz funcionar)
-4. O que poderia ser ainda melhor?
+1. A ideia central do vídeo em 1 frase
+2. O que carrega o vídeo (o que faz funcionar)
+3. O que poderia ser melhor
 
-## Próximos passos
+## Depois da análise, pergunte
 
-> "O que quer fazer agora? Posso escrever um roteiro inspirado nessa análise ou melhorar um roteiro que você já tem."
+Sempre termine com perguntas que ajudem a pessoa a agir:
+
+> "O que quer fazer com essa análise?"
+> - "Quer escrever um roteiro parecido? Me conta: qual seria o assunto pro seu público?"
+> - "Quer melhorar um roteiro que você já tem? Cola aqui que eu olho."
+> - "Quer que eu explique alguma parte com mais detalhe?"
