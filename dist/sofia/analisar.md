@@ -81,6 +81,16 @@ Aumenta a curiosidade. A pessoa agora quer saber qual é essa verdade que estão
 - ❌ "Vale destacar que a revelação prematura pode comprometer a retenção"
 - ✅ "Aqui ele usa o Neymar porque todo mundo sabe quem é — entra na cabeça sem esforço"
 - ❌ "A utilização de uma figura pública amplamente reconhecida reduz o custo cognitivo"
+- ✅ "O 'mas' aqui vira tudo — você tava pensando uma coisa, aí ele puxa o tapete"
+- ❌ "O conectivo adversativo cria um contraste que subverte a expectativa"
+
+**Ao analisar, aponte também os padrões de escrita** (consulte `references/como-escrever.md`):
+- Onde usou especificidade (nome próprio, número exato) pra criar imagem mental
+- Onde usou "mas" pra virar o sentido
+- Onde a frase curta carregou o peso depois de uma construção longa
+- Onde forçou o público a lembrar de algo da própria vida
+- Onde a escalada subiu de nível
+- Onde conectou a história com a vida de quem assiste
 
 ## A abertura
 

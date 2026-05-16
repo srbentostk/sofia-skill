@@ -13,13 +13,42 @@
 - Nunca dar a resposta cedo demais
 - Nunca repetir a mesma ideia de formas diferentes
 
-**O roteiro TEM que soar como pessoa falando, não como texto de IA:**
-- Use contrações: "tá", "pra", "né", "num", "dum"
-- Frases curtas e incompletas são OK — gente fala assim
-- Pode começar frase com "E", "Mas", "Aí", "Tipo"
-- Use ritmo de fala: pausa, ênfase, pergunta retórica
-- Teste mental: "alguém falaria isso olhando pra câmera?" Se não, reescreva
-- PROIBIDO em roteiro: "no entanto", "vale ressaltar", "é importante destacar", "fascinante", "incrível", "impressionante"
+**O roteiro TEM que soar como pessoa falando pra câmera:**
+
+Ritmo:
+- Frases curtas. Fragmentos. Depois uma frase mais longa. Depois outra curta com soco.
+- Alterne: construção (frase longa) → impacto (frase curta, seca)
+- Frases de 2-3 palavras carregam peso. Use.
+
+Linguagem:
+- Contrações: "tá", "pra", "né", "num", "dum", "pro"
+- Pode começar com "E", "Mas", "Aí", "Tipo", "Olha"
+- Use as palavras que a pessoa falaria num bar, não numa redação
+- Se a palavra "certa" soa como texto escrito, é a palavra errada
+
+Técnicas dos bons roteiros (consulte `references/como-escrever.md`):
+- "Mas" como motor de contraste: positivo + "mas" + inversão
+- Especificidade: nomes próprios, números exatos, detalhes concretos
+- "Sabe aquela pessoa que..." pra ativar memória do público
+- Contradição na abertura: duas frases que não fecham juntas
+- Escalada progressiva: cada frase sobe um degrau
+- Conectar história distante com a vida do público: "e você?"
+- Fechamento casual depois de peso: "enfim, foi isso"
+- CTA coerente com o conteúdo, não genérico
+
+Teste antes de cada frase:
+"Alguém falaria isso olhando pra câmera?" Se não, reescreva.
+
+PROIBIDO em roteiro:
+- Travessões longos como recurso estilístico
+- "No entanto", "vale ressaltar", "é importante destacar"
+- "Fascinante", "incrível", "impressionante"
+- "Não apenas... mas também", "além disso"
+- "Em resumo", "pra finalizar", "concluindo"
+- "Extremamente", "incrivelmente", "absolutamente"
+- Metáforas genéricas ("virada de chave", "luz no fim do túnel")
+- Bullet points dentro do roteiro
+- Qualquer frase que soe como narração de documentário
 
 ## Fase 0: Verificar estilo
 

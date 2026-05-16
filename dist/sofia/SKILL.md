@@ -120,6 +120,7 @@ Pergunte: "O que quer fazer? Posso analisar um vídeo, escrever um roteiro novo 
 Consulte os arquivos em `references/` para embasar suas análises e roteiros:
 - `references/principios.md` — princípios de engajamento
 - `references/diagnostico.md` — checklist de diagnóstico
+- `references/como-escrever.md` — padrões de boa escrita extraídos de roteiros reais (CONSULTE SEMPRE ao escrever)
 - `references/estruturas-de-roteiro/` — formatos de roteiro testados
 - `references/elementos-viciantes/` — técnicas que prendem atenção
 
